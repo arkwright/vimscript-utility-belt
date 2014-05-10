@@ -4,10 +4,11 @@ Vimscript utility functions to make your life easy.
 
 # Why?
 
-I'm making a Vim plugin. I need a function. It doesn't exist. So I
-write it.
+I'm making a Vim plugin. I need functions. They don't exist. So I
+write them.
 
-But then maybe you need it. So I share it. Now we both have functions!
+But then maybe you need them. So I share them. Now we both have
+functions!
 
 # Not A Plugin
 
