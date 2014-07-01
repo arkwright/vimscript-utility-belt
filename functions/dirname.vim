@@ -6,6 +6,6 @@
 "
 " @return   string            The parent directory's path.
 """
-function! s:dirname(path)
+function! s:Dirname(path)
   return fnamemodify(a:path, ':h')
 endfunction

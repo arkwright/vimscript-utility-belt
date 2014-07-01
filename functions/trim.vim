@@ -10,7 +10,7 @@
 "
 " @return   string            The result.
 """
-function! s:trim(str, ...)
+function! s:Trim(str, ...)
   let l:char = '\s'
 
   if a:0 ==# 1
